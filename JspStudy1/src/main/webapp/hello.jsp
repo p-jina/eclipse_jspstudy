@@ -9,6 +9,7 @@
 <body>
 <% //스크립트릿 -> 자바코드를 사용할 수 있도록 만들어주는 영역
 	String str="박진아";
+	//document.out.println("str="+str);
 	//System.out.println("str=>"+str); //디버깅할 때 사용
 	out.println("str=>"+str); //웹에서 출력
 	out.println("<h1>"+str+"</h1>");
