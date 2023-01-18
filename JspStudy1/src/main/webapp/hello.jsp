@@ -15,5 +15,6 @@
 	out.println("<h1>"+str+"</h1>");
 	//document.write("<h1>"+hello+"</h1>"); //자바스크립트 코드 사용X
 %>
+<%=str%>
 </body>
 </html>
